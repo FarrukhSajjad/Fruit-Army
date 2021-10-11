@@ -5,4 +5,6 @@ Fruit Army is clone of the famous game fruit ninja.
 This is a personal project made with unity. Covers the basics for spawning random objects and trail renderer.
 
 
-![welcome page](<https://raw.githubusercontent.com/FarrukhSajjad/airquality-flutterapp/master/assets/images/display.jpeg>)
+![feature_graphics](<https://raw.githubusercontent.com/FarrukhSajjad/Fruit-Army/main/featuredG.png>)
+
+![gameplay_gif](<https://raw.githubusercontent.com/FarrukhSajjad/Fruit-Army/main/20211011_210517.gif>)
